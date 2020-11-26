@@ -13,6 +13,12 @@ ol, ul {
   display: table;
 }
 
+.hb {
+    height: 20px;
+    float: left;
+    width: 20px;
+}
+
 
 .blk {
   background: #fff;
